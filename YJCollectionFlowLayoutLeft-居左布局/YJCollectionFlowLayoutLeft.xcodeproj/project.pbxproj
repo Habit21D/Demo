@@ -65,11 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				181CBC891F78F91B000EAAD6 /* AppDelegate.swift */,
-				181CBC8B1F78F91B000EAAD6 /* ViewController.swift */,
-				181CBC9D1F78FB25000EAAD6 /* CouponCollectionViewCell.swift */,
-				181CBC9F1F78FB2F000EAAD6 /* TitleCollectionViewCell.swift */,
-				181CBCA11F7900E2000EAAD6 /* FooterCollectionViewCell.swift */,
-				181CBCA31F790198000EAAD6 /* YJCollectionFlowLayoutLeft.swift */,
+				1843033B1F7A114600129872 /* 居左布局 */,
 				181CBC9B1F78FA71000EAAD6 /* Global.swift */,
 				181CBC8D1F78F91B000EAAD6 /* Main.storyboard */,
 				181CBC901F78F91B000EAAD6 /* Assets.xcassets */,
@@ -77,6 +73,18 @@
 				181CBC951F78F91B000EAAD6 /* Info.plist */,
 			);
 			path = YJCollectionFlowLayoutLeft;
+			sourceTree = "<group>";
+		};
+		1843033B1F7A114600129872 /* 居左布局 */ = {
+			isa = PBXGroup;
+			children = (
+				181CBC8B1F78F91B000EAAD6 /* ViewController.swift */,
+				181CBC9D1F78FB25000EAAD6 /* CouponCollectionViewCell.swift */,
+				181CBC9F1F78FB2F000EAAD6 /* TitleCollectionViewCell.swift */,
+				181CBCA11F7900E2000EAAD6 /* FooterCollectionViewCell.swift */,
+				181CBCA31F790198000EAAD6 /* YJCollectionFlowLayoutLeft.swift */,
+			);
+			name = "居左布局";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -330,6 +338,7 @@
 				181CBC9A1F78F91B000EAAD6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
